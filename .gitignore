@@ -1,0 +1,12 @@
+# Ignore virtual environment
+env/
+venv/
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
+*.log
+
+# Ignore Python libraries in Anaconda
+*.egg-info/
+*.dist-info/
