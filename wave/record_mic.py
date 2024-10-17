@@ -1,6 +1,6 @@
 # How we can record with our mic and capture with our mic input in python
 # For this we use PyAudio
-# For more information https://people.csail.mit.edu/hubert/pyaudio/
+
 import pyaudio
 import wave
 
