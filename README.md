@@ -1,7 +1,10 @@
 # Needed websites:
-https://www.assemblyai.com/
-https://www.assemblyai.com/docs
-https://people.csail.mit.edu/hubert/pyaudio/
+https://www.assemblyai.com/ 
+
+https://www.assemblyai.com/docs 
+
+https://people.csail.mit.edu/hubert/pyaudio/ 
+
 
 # Some information for wave folder projects:
 Audio file formats:
