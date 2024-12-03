@@ -1,12 +1,25 @@
-# Ignore virtual environment
+# Ignore virtual environment folders
 env/
 venv/
+wave/audio_env/
+
+# Ignore compiled Python files
 *.pyc
 __pycache__/
+
+# Ignore macOS system files
 .DS_Store
+
+# Ignore IDE and editor settings
 .idea/
+.vscode/
+
+# Ignore log files
 *.log
 
-# Ignore Python libraries in Anaconda
+# Ignore Python library metadata
 *.egg-info/
 *.dist-info/
+
+# Ignore yt-dlp-related files
+yt_dlp/
